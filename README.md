@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Deep-Learning-Approaches-Project
 =======
 # 🧠 Deep Learning Approaches
@@ -123,6 +122,6 @@ GPUs: [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
 
 ---
 
-✍️ Authors: *Your Name, Kaan, Jithin*  
+✍️ Authors: Vinicius Jodar, Kaan, Jithin
 📅 Date: 2025
->>>>>>> dbc1f73 (Initial commit: Deep Learning Approaches (CNN + Transfer Learning + README))
+
