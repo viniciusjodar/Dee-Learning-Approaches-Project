@@ -1,6 +1,4 @@
-# Deep-Learning-Approaches-Project
-=======
-# 🧠 Deep Learning Approaches
+# 🧠 Deep Learning Approaches Project
 
 This repository contains two main notebooks exploring different Deep Learning techniques:
 
@@ -19,7 +17,6 @@ This repository contains two main notebooks exploring different Deep Learning te
   - **Python**
   - **Jupyter**
 
----
 
 ## 🛠️ GPU Environment Setup
 
@@ -64,7 +61,6 @@ TF: 2.20.0
 GPUs: [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
 ```
 
----
 
 ## ▶️ How to Run the Notebooks
 
@@ -79,7 +75,6 @@ GPUs: [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
 
 3. Run all cells (`Run All`).
 
----
 
 ## 📂 Project Structure
 
@@ -102,13 +97,11 @@ GPUs: [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
 - Optional fine-tuning of top layers  
 - Compare performance between **CNN from scratch** and **Transfer Learning**
 
----
 
 ## 📊 Expected Results
 - CNN from scratch (Fashion MNIST): accuracy around **88–92%**  
 - Transfer Learning: higher accuracy on complex datasets with less training  
 
----
 
 ## 📌 Tips
 - Monitor GPU usage in real-time:
@@ -120,7 +113,6 @@ GPUs: [PhysicalDevice(name='/physical_device:GPU:0', device_type='GPU')]
   - `learning_rate`
   - `patience` in `EarlyStopping`
 
----
 
 ✍️ Authors: Vinicius Jodar, Kaan, Jithin
 📅 Date: 2025
