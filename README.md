@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Dee-Learning-Approaches-Project
+# Deep-Learning-Approaches-Project
 =======
 # 🧠 Deep Learning Approaches
 
